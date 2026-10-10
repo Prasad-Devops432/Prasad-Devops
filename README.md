@@ -10,13 +10,15 @@ I'm looking for a first role in **IT support, cloud or junior DevOps**.
 | Area | Tools I have used in projects |
 |------|-------------------------------|
 | Cloud (AWS) | EC2, VPC, IAM, Auto Scaling, load balancers, CloudWatch, CodeBuild, Parameter Store |
+| Cloud (Azure) | Basic hands-on projects: Azure Load Balancer and Azure AD hybrid identity with SSO |
+| Networking | Site-to-site connectivity, firewall configuration, DNS and DHCP troubleshooting |
 | CI/CD | Jenkins, GitHub Actions, AWS CodeBuild |
 | Containers | Docker, Docker Compose, Docker Swarm |
 | Infrastructure as code | CloudFormation; Terraform (learning) |
 | Scripting | Bash; Python for automation |
 | Version control | Git and GitHub |
 
-**Currently learning:** Terraform in depth, and Azure fundamentals.
+**Currently learning:** Terraform in depth, and more advanced Azure.
 
 ## Selected projects
 
