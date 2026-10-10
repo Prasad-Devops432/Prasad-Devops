@@ -1,37 +1,44 @@
-# Lakshmiprasad
+# Lakshmi Prasad
 
-I am learning DevOps and cloud engineering, with a focus on AWS, Linux, CI/CD and
-containers. This is my learning portfolio: hands-on projects, practice labs and my study notes.
+Hi, I'm Lakshmi. I'm learning DevOps and cloud engineering, with a focus on **AWS, Linux, CI/CD and containers**.
+This profile links to my hands-on projects, practice labs and study notes.
 
-I'm looking to start my career in IT support, cloud or junior DevOps roles.
+I'm looking for a first role in **IT support, cloud or junior DevOps**.
 
-## What I'm working on
+## Skills and tools
 
-- **AWS:** VPCs, EC2, IAM, Auto Scaling, load balancers, CloudWatch
-- **Infrastructure as code:** CloudFormation, Terraform (learning)
-- **CI/CD:** Jenkins, GitHub Actions, AWS CodeBuild
-- **Containers:** Docker, Docker Compose, Docker Swarm
-- **Scripting:** Bash, and Python for automation
-- **Learning next:** Azure fundamentals
+| Area | Tools I have used in projects |
+|------|-------------------------------|
+| Cloud (AWS) | EC2, VPC, IAM, Auto Scaling, load balancers, CloudWatch, CodeBuild, Parameter Store |
+| CI/CD | Jenkins, GitHub Actions, AWS CodeBuild |
+| Containers | Docker, Docker Compose, Docker Swarm |
+| Infrastructure as code | CloudFormation; Terraform (learning) |
+| Scripting | Bash; Python for automation |
+| Version control | Git and GitHub |
+
+**Currently learning:** Terraform in depth, and Azure fundamentals.
 
 ## Selected projects
 
 | Project | What it shows |
 |---------|---------------|
 | [Three-Tier-Architecture](https://github.com/Prasad-Devops432/Three-Tier-Architecture) | A React, Node.js and MongoDB app with JWT login, containerised with Docker and Nginx |
-| [Python-CICD-PROJECT](https://github.com/Prasad-Devops432/Python-CICD-PROJECT) | A Flask app with a Jenkins pipeline: lint, test, build a Docker image, deploy |
+| [Python-CICD-PROJECT](https://github.com/Prasad-Devops432/Python-CICD-PROJECT) | A Flask app with a Jenkins pipeline that runs lint and tests, then builds a Docker image |
 | [Github-action_python](https://github.com/Prasad-Devops432/Github-action_python) | A Flask app with tests run by a GitHub Actions workflow, and a Dockerfile |
 | [AWS-projects-](https://github.com/Prasad-Devops432/AWS-projects-) | AWS labs: a Node.js app on EC2, a CodeBuild pipeline, and an Auto Scaling architecture |
 | [Shell-scripting-projects-](https://github.com/Prasad-Devops432/Shell-scripting-projects-) | Bash scripts for user management, GitHub API queries and AWS VPC listing |
 | [DockerSwarm-Project-](https://github.com/Prasad-Devops432/DockerSwarm-Project-) | A small service deployed across a Docker Swarm cluster |
+| [terraform_project](https://github.com/Prasad-Devops432/terraform_project) | A Terraform starter configuration for AWS, ready for resources to be added |
 
 Some projects follow tutorials, and their READMEs say so. Where I have changed the code,
-the README lists what I changed.
+the README lists what I changed. These are learning projects, not production systems.
 
-## Study notes
+## Courses and study notes
 
-My notes on [DevOps, the SDLC, AWS services, scripting and roles in IT](Devops-Notes/README.md).
+- [Terraform zero to hero](https://github.com/Prasad-Devops432/terraform-zero-to-hero): course notes and exercises, one folder per day
+- [AWS DevOps zero to hero](https://github.com/Prasad-Devops432/aws-devops-zero-to-hero): course notes and exercises, one folder per day
+- [DevOps study notes](Devops-Notes/README.md): DevOps, the SDLC, AWS services, scripting and roles in IT
 
 ## Contact
 
-Open to feedback on my projects, and to learning from people already working in DevOps and cloud.
+I welcome feedback on my projects, and advice from people already working in DevOps and cloud.
